@@ -1,0 +1,8 @@
+{
+  "name": "Tela de Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d85e8af4"
+}
